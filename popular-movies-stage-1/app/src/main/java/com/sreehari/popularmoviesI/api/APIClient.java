@@ -11,7 +11,7 @@ import retrofit.http.Path;
  * Created by Stas on 19.07.15.
  */
 public class APIClient implements RequestInterceptor {
-    public static  final String API_KEY="517bb475f3e30487bbce0f63efbf3944";
+    public static  final String API_KEY=" ";
     public static  final String KEY_PARAM="api_key";
     public static final String BASE_URL="https://api.themoviedb.org/3";
     private static APIMethods api;
