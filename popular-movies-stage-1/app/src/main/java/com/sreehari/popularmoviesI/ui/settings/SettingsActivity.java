@@ -1,4 +1,4 @@
-package stanislav.volnjanskij.popularmovies.ui.settings;
+package com.sreehari.popularmoviesI.ui.settings;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package stanislav.volnjanskij.popularmovies.ui.movie_details;
+package com.sreehari.popularmoviesI.ui.movie_details;
 
 
 import android.app.Activity;
@@ -21,8 +21,8 @@ import com.sreehari.popularmovies.R;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 
-import stanislav.volnjanskij.popularmovies.api.APIClient;
-import stanislav.volnjanskij.popularmovies.api.MovieModel;
+import com.sreehari.popularmoviesI.api.APIClient;
+import com.sreehari.popularmoviesI.api.MovieModel;
 
 /**
  * A simple {@link Fragment} subclass.

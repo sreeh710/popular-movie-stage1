@@ -1,4 +1,4 @@
-package stanislav.volnjanskij.popularmovies;
+package com.sreehari.popularmovie;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

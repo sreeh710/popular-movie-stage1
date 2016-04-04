@@ -1,4 +1,4 @@
-package stanislav.volnjanskij.popularmovies;
+package com.sreehari.popularmoviesI;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,10 +9,10 @@ import android.view.MenuItem;
 import com.sreehari.popularmovies.R;
 
 import butterknife.ButterKnife;
-import stanislav.volnjanskij.popularmovies.api.MovieModel;
-import stanislav.volnjanskij.popularmovies.ui.movie_details.DetailsActivity;
-import stanislav.volnjanskij.popularmovies.ui.movies_list.MoviesListFragment;
-import stanislav.volnjanskij.popularmovies.ui.settings.SettingsActivity;
+import com.sreehari.popularmoviesI.api.MovieModel;
+import com.sreehari.popularmoviesI.ui.movie_details.DetailsActivity;
+import com.sreehari.popularmoviesI.ui.movies_list.MoviesListFragment;
+import com.sreehari.popularmoviesI.ui.settings.SettingsActivity;
 
 
 public class MainActivity extends AppCompatActivity implements MoviesListFragment.Callback {

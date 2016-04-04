@@ -1,4 +1,4 @@
-package stanislav.volnjanskij.popularmovies.ui.movies_list;
+package com.sreehari.popularmoviesI.ui.movies_list;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -12,7 +12,7 @@ import com.squareup.picasso.Picasso;
 import com.sreehari.popularmovies.R;
 
 
-import stanislav.volnjanskij.popularmovies.api.MovieModel;
+import com.sreehari.popularmoviesI.api.MovieModel;
 
 /**
  * Created by Stas on 21.07.15.

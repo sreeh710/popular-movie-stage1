@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="stanislav.volnjanskij.popularmovies.MainActivity"
+            android:name="com.sreehari.popularmoviesI.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,11 +19,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="stanislav.volnjanskij.popularmovies.ui.movie_details.DetailsActivity"
+            android:name="com.sreehari.popularmoviesI.ui.movie_details.DetailsActivity"
             android:label="@string/title_activity_details" >
         </activity>
         <activity
-            android:name="stanislav.volnjanskij.popularmovies.ui.settings.SettingsActivity"
+            android:name="com.sreehari.popularmoviesI.ui.settings.SettingsActivity"
             android:label="@string/title_activity_settings" >
         </activity>
     </application>

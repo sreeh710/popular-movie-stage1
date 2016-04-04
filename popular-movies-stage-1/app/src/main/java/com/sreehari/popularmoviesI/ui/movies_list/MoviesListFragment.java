@@ -1,4 +1,4 @@
-package stanislav.volnjanskij.popularmovies.ui.movies_list;
+package com.sreehari.popularmoviesI.ui.movies_list;
 
 import android.app.Activity;
 import android.app.LoaderManager;
@@ -26,8 +26,8 @@ import java.util.List;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 
-import stanislav.volnjanskij.popularmovies.api.APIClient;
-import stanislav.volnjanskij.popularmovies.api.MovieModel;
+import com.sreehari.popularmoviesI.api.APIClient;
+import com.sreehari.popularmoviesI.api.MovieModel;
 
 /**
  * A fragment representing a list of Items.

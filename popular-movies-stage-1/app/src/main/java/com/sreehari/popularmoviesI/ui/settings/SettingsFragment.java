@@ -1,4 +1,4 @@
-package stanislav.volnjanskij.popularmovies.ui.settings;
+package com.sreehari.popularmoviesI.ui.settings;
 
 
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package stanislav.volnjanskij.popularmovies.ui.movie_details;
+package com.sreehari.popularmoviesI.ui.movie_details;
 
 import android.app.Fragment;
 import android.os.Bundle;

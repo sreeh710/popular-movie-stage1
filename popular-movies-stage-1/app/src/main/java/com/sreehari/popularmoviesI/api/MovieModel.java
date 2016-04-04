@@ -1,4 +1,4 @@
-package stanislav.volnjanskij.popularmovies.api;
+package com.sreehari.popularmoviesI.api;
 
 import android.os.Parcel;
 import android.os.Parcelable;
